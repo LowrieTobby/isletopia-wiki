@@ -1,4 +1,5 @@
 module.exports = {
+  base: '/isletopia-docs/',
   title: '梦幻之屿 - 手册',
   description: '梦幻之屿帮助手册主页',
   locales: {
