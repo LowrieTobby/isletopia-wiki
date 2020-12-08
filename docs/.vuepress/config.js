@@ -35,13 +35,13 @@ module.exports = {
         // 当前 locale 的 algolia docsearch 选项
         algolia: {},
         nav: [
-          { text: '基本介绍', link: '/zh/guide/' },
-          { text: '常见问题', link: '/zh/guide/常见问题.html' },
+          { text: '基本介绍', link: '/zh/guide/introduction.html' },
+          { text: '常见问题', link: '/zh/guide/faq.html' },
           {
             text: '指南', items: [
-              { text: '新手教学', link: '/zh/guide/新手教学.html' },
-              { text: '材料获取', link: '/zh/guide/材料获取.html' },
-              { text: '魔改内容', link: '/zh/guide/魔改内容.html' },
+              { text: '新手教学', link: '/zh/guide/tutorial.html' },
+              { text: '材料获取', link: '/zh/guide/get-items.html' },
+              { text: '魔改内容', link: '/zh/guide/modification.html' },
             ]
           },
           { text: '首页', link: 'http://isletopia.net' }
@@ -49,11 +49,11 @@ module.exports = {
         sidebar: {
           collapsable: true,
           '/zh/guide/': [
-            '',
-            '新手教学',
-            '材料获取',
-            '魔改内容',
-            '常见问题'
+            'introduction',
+            'tutorial',
+            'get-items',
+            'modification',
+            'faq'
           ],
           '/': [
             ''
@@ -74,7 +74,7 @@ module.exports = {
         },
         algolia: {},
         nav: [
-          { text: 'Introduction', link: '/en/guide/' },
+          { text: 'Introduction', link: '/en/guide/introduction.html' },
           { text: 'FAQ', link: '/en/guide/faq.html' },
           {
             text: 'Guide', items: [
@@ -88,7 +88,7 @@ module.exports = {
         sidebar: {
           collapsable: true,
           '/en/guide/': [
-            '',
+            'introduction',
             'tutorial',
             'get-items',
             'modification',
