@@ -1,16 +1,16 @@
 ---
-title: 基本介绍
-tags:
-  - 基本介绍
+title: 服务器简介
 ---
 
-# 基本介绍
+# 服务器简介
 
 
 ## 📰 基本信息
-<!-- <img src="../assets/images/island_b.png" alt="islet" style="zoom:50%;" /></center> -->
+
+<center><img src="../../.vuepress/dist/assets/img/island_b.png" alt="isletopia-logo" style="zoom:66%;" /></center>
 
 ### 梦幻之屿
+
 
 梦幻之屿是一个体验与原版极为接近的服务器, 这意味着没有红石流水限制, 没有主城, 没有商店, 每个玩家只有一个小岛。即使是多人也能很好地配合发展, 良好的合作系统能让岛屿更加活跃。这空岛小服经常热闹非凡, 已连续两个多月每日在线人数不低于20。
 
