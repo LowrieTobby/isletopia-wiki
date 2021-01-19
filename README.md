@@ -1,4 +1,5 @@
 # Isletopia Wiki
+![travis-ci](https://api.travis-ci.org/LowrieTobby/isletopia-docs.svg?branch=master&status=created)
 
 > [Isletopia](https://isletopia.net/) 是由 [Molean](https://github.com/cnMolean) 与其团队创立的一个 Minecraft 服务器
 >
