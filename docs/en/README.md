@@ -1,5 +1,6 @@
 ---
 home: true
+footer: Copyright © 2021 Isletopia
 ---
 
 ## Navgation

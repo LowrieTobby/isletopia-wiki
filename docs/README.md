@@ -1,6 +1,10 @@
 ---
 home: true
+footer: Copyright © 2021 Isletopia
 ---
+
+
+<!-- <center><img :src="$withBase('/assets/img/island_b.png')" alt="islet" style="zoom:50%;"/></center> -->
 
 
 ## 导航

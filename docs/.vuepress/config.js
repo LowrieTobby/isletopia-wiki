@@ -1,7 +1,12 @@
+const sidebarConfig = require('./configs/sidebarConfig');
+const pluginConfig = require('./configs/pluginsConfig');
+const headConfig = require('./configs/headConfig');
+
 module.exports = {
   // 基本信息
   base: '/wiki/',
   title: '梦幻之屿 - 手册',
+  head: headConfig,
   description: '梦幻之屿帮助手册主页',
   locales: {
     '/': {
@@ -16,6 +21,7 @@ module.exports = {
     }
   },
 
+  plugins: pluginConfig,
 
   // 主题设置
   themeConfig: {
@@ -49,19 +55,7 @@ module.exports = {
           },
           { text: '首页', link: 'http://isletopia.net' }
         ],
-        sidebar: {
-          collapsable: true,
-          '/guide/': [
-            'introduction',
-            'tutorial',
-            'get-items',
-            'modification',
-            'faq'
-          ],
-          // '/': [
-          //   ''
-          // ]
-        },
+        sidebar: sidebarConfig,
         lastUpdated: '更新于',
       },
       '/en/': {
@@ -88,23 +82,12 @@ module.exports = {
           },
           { text: 'Home', link: 'http://isletopia.net' }
         ],
-        sidebar: {
-          collapsable: true,
-          '/en/guide/': [
-            'introduction',
-            'tutorial',
-            'get-items',
-            'modification',
-            'faq'
-          ],
-          // '/': [
-          //   ''
-          // ]
-        },
+        sidebar: sidebarConfig
       },
     },
     smoothScroll: true,
 
+    // 仓库信息
     // 假定是 GitHub. 同时也可以是一个完整的 GitLab URL
     repo: 'LowrieTobby/isletopia-docs',
     // 自定义仓库链接文字。默认从 `themeConfig.repo` 中自动推断为
@@ -121,7 +104,5 @@ module.exports = {
     docsBranch: 'master',
     // 默认是 false, 设置为 true 来启用
     editLinks: true,
-    // 默认为 "Edit this page"
-    editLinkText: '帮助我们改善此页面！'
-  }
+  },
 }
