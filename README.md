@@ -70,7 +70,7 @@ npm run docs:dev
 
 所有文档存放目录均在 `/docs/` 目录下
 
-- 中文文档路径 `/docs/zh/`
+- 中文文档路径 `/docs/guide`
 
-- 英文文档路径 `/docs/en/`
+- 英文文档路径 `/docs/en/guide`
 
