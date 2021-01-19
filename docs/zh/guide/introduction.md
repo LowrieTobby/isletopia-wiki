@@ -8,7 +8,6 @@ title: 服务器简介
 ## 📰 基本信息
 
 <!-- <center><img src="../../.vuepress/dist/assets/img/island_b.png" alt="isletopia-logo" style="zoom:66%;" /></center> -->
-
 ### 梦幻之屿
 
 
