@@ -58,9 +58,9 @@ module.exports = {
             'modification',
             'faq'
           ],
-          '/': [
-            ''
-          ]
+          // '/': [
+          //   ''
+          // ]
         },
         lastUpdated: '更新于',
       },
@@ -97,9 +97,9 @@ module.exports = {
             'modification',
             'faq'
           ],
-          '/': [
-            ''
-          ]
+          // '/': [
+          //   ''
+          // ]
         },
       },
     },
