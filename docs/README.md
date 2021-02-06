@@ -1,6 +1,6 @@
 ---
 home: true
-footer: Copyright © 2021 Isletopia
+footer: Copyright © 2021 Isletopia - Powered by Vuepress
 ---
 
 

@@ -7,5 +7,5 @@ footer: Copyright © 2021 Isletopia
 - [introduction](/en/guide/introduction.html)
 - [faq](/en/guide/faq.html)
 - [tutorial](/en/guide/tutorial.html)
-- [get-items](/en/guide/get-items.htm)
+- [get-items](/en/guide/get-items.html)
 - [modification](/en/guide/modification.html)

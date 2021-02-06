@@ -4,7 +4,7 @@ const headConfig = require('./configs/headConfig');
 
 module.exports = {
   // 基本信息
-  base: '/wiki/',
+  base: '/',
   title: '梦幻之屿 - 手册',
   head: headConfig,
   description: '梦幻之屿帮助手册主页',
