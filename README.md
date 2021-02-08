@@ -62,7 +62,7 @@ npm install
 npm run docs:dev
 ```
 
-编译成功后你可以在本机地址 http://localhost:8080/wiki/zh 实时查看文档修改后的效果
+编译成功后可以在本机地址 http://localhost:8080/ 实时查看文档修改后的效果
 
 
 
