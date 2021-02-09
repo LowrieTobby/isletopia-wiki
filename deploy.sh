@@ -13,4 +13,4 @@ npm install
 npm run docs:build
 
 # 部署文件
-cp -R docs/.vuepress/dist/ /var/html/
+cp -R docs/.vuepress/dist /var/jenkins_home/public/wiki
