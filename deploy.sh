@@ -13,4 +13,4 @@ npm install
 npm run docs:build
 
 # 部署文件
-cp -R docs/.vuepress/dist /var/html
+sudo cp -R docs/.vuepress/dist /var/html
