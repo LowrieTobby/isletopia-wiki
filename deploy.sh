@@ -11,3 +11,6 @@ npm install
 
 # 生成静态文件
 npm run docs:build
+
+# 部署文件
+cp -R docs/.vuepress/dist/ /var/html/
