@@ -2,11 +2,9 @@ echo "deploy.sh started!"
 # 查询环境版本
 node -v
 npm -v
-docker -v
 
-#停止和删除上一个版本wiki
-docker stop isletopia-wiki
-docker rm isletopia-wiki
+#删除之前的文件
+rm -rf docs/.vuepress/dist/
 
 # 执行安装
 npm install
