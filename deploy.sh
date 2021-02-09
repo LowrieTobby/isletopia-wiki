@@ -6,9 +6,10 @@ npm -v
 #删除之前的文件
 rm -rf docs/.vuepress/dist/
 
-echo "finished!"
-# # 执行安装
-# npm install
+# 执行安装
+npm install
 
-# # 生成静态文件
-# npm run docs:build
+# 生成静态文件
+npm run docs:build
+
+echo "finished!"
