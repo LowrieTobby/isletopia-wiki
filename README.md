@@ -6,7 +6,7 @@
 
 > [Isletopia](https://isletopia.net/) 是由 [Molean](https://github.com/cnMolean) 与其团队创立的一个 Minecraft 服务器
 >
-> 这里是此文档项目的源码仓库。如果要阅读此文档原文，请访问 https://isletopia.net/wiki/zh/
+> 这里是此文档项目的源码仓库。如果要阅读此文档原文，请访问 http://wiki.isletopia.net/
 
 
 
