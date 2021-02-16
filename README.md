@@ -1,9 +1,12 @@
 # Isletopia Wiki
-![travis-ci](https://api.travis-ci.org/LowrieTobby/isletopia-docs.svg?branch=master&status=created)
+
+![build-status](https://img.shields.io/jenkins/build?jobUrl=http%3A%2F%2Fhub.isletopia.net%2Fjenkins%2Fview%2Fweb%2Fjob%2Fisletopia-wiki%2F)
+![vuepress-versoin](https://img.shields.io/badge/vuepress-1.7.1-blue)
+![npm-versoin](https://img.shields.io/badge/npm-6.13.7-blue)
 
 > [Isletopia](https://isletopia.net/) 是由 [Molean](https://github.com/cnMolean) 与其团队创立的一个 Minecraft 服务器
 >
-> 该项目是基于 vuepress 开发的 Isletopia 服务器在线帮助手册。如果要阅读此文档，请访问 https://isletopia.net/wiki/zh/
+> 这里是此文档项目的源码仓库。如果要阅读此文档原文，请访问 https://isletopia.net/wiki/zh/
 
 
 
