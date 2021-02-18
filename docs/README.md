@@ -10,8 +10,8 @@ footer: Copyright © 2021 Isletopia - Powered by Vuepress
 :::
 
 ## 导航
-- [服务器简介](guide/introduction.html)
+- [简单介绍](guide/introduction.html)
 - [常见问题](guide/faq.html)
 - [新手教学](guide/tutorial.html)
-- [材料获取](guide/get-items.html)
+- [材料获取](guide/material.html)
 - [魔改内容](guide/modification.html)
