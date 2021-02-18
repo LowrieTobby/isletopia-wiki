@@ -49,7 +49,7 @@ module.exports = {
           {
             text: '指南', items: [
               { text: '新手教学', link: '/guide/tutorial.html' },
-              { text: '材料获取', link: '/guide/get-items.html' },
+              { text: '材料获取', link: '/guide/material.html' },
               { text: '魔改内容', link: '/guide/modification.html' },
             ]
           },
@@ -76,7 +76,7 @@ module.exports = {
           {
             text: 'Guide', items: [
               { text: 'Tutorial', link: '/en/guide/tutorial.html' },
-              { text: 'Get items', link: '/en/guide/get-items.html' },
+              { text: 'Get items', link: '/en/guide/material.html' },
               { text: 'Modification', link: '/en/guide/modification.html' },
             ]
           },
