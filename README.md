@@ -1,7 +1,7 @@
 # Isletopia Wiki
 
 ![build-status](https://img.shields.io/jenkins/build?jobUrl=http%3A%2F%2Fhub.isletopia.net%2Fjenkins%2Fview%2Fweb%2Fjob%2Fisletopia-wiki%2F)
-![vuepress-versoin](https://img.shields.io/badge/vuepress-1.7.1-blue)
+![vuepress-versoin](https://img.shields.io/badge/vuepress-1.8.1-blue)
 ![npm-versoin](https://img.shields.io/badge/npm-6.13.7-blue)
 
 > [Isletopia](https://isletopia.net/) 是由 [Molean](https://github.com/cnMolean) 与其团队创立的一个 Minecraft 服务器
@@ -31,7 +31,7 @@ Isletopia Wiki 还在完善当中，如果你有更好的想法或者建议，�
 该项目是基于 `vuepress` 开发的，因此在 `clone` 该项目之前，确保你安装了如下环境
 
 - `npm` - 6.13.7 或更新版本
-- `vuepress` - 1.7.1或更新版本
+- `vuepress` - 1.8.1或更新版本
 
 
 
