@@ -6,7 +6,7 @@ footer: Copyright © 2021 Isletopia - Powered by Vuepress
 
 <!-- <center><img :src="$withBase('/assets/img/island_b.png')" alt="islet" style="zoom:50%;"/></center> -->
 ::: tip
-我们的 wiki 还在完善当中，当前显示的内容不一定是最终内容
+我们的 wiki 将会不断完善，当前显示的内容不代表最终内容
 :::
 
 <!-- ## 导航

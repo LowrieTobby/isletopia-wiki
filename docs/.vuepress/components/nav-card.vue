@@ -21,7 +21,6 @@
           {'icon':'🍦','text':'新手教学','link':'guide/tutorial.html'},
           {'icon':'💎','text':'材料获取','link':'guide/material.html'},
           {'icon':'💊','text':'魔改内容','link':'guide/modification.html'},
-
         ]
       }
     }
@@ -32,19 +31,19 @@
 .nav-card {
   overflow: auto;
   display: flex;
-  margin-bottom: 20px;
+  margin-bottom: 60px;
 }
 .item {
   text-align: center;
   min-width: 120px;
   color: #2c3e50;
   border-style: solid;
-  border-color: #2c3e50;
-  border-width: 3px;
+  border-color: #c3cad0;
+  border-width: 2.5px;
   border-radius: 9px;
   padding: 50px 10px;
-  margin: 0px 10px;
-  transition: all 0.4s ease-in-out;
+  margin: 0px 6px;
+  transition: all 0.3s ease-in-out;
 }
 
 .item:hover {
@@ -55,7 +54,7 @@
 }
 
 .item-icon {
-  font-size: 1.6rem;
+  font-size: 1.8rem;
 }
 .item-text {
   margin-top: 12px;
