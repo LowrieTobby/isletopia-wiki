@@ -16,9 +16,9 @@
     data() {
       return {
         'items':[
-          {'icon':'📝','text':'简单介绍','link':'/guide/introduction.html'},
+          {'icon':'😃','text':'简单介绍','link':'/guide/introduction.html'},
           {'icon':'🤔','text':'常见问题','link':'guide/faq.html'},
-          {'icon':'🍦','text':'新手教学','link':'guide/tutorial.html'},
+          {'icon':'🐣','text':'新手教学','link':'guide/tutorial.html'},
           {'icon':'💎','text':'材料获取','link':'guide/material.html'},
           {'icon':'💊','text':'魔改内容','link':'guide/modification.html'},
         ]
@@ -28,10 +28,14 @@
 </script>
 
 <style scoped>
+
+  /* $theme-color: #42b983; */
+
 .nav-card {
   overflow: auto;
   display: flex;
-  margin-bottom: 60px;
+  margin: 16px 0px;
+  padding: 12px 0px;
 }
 .item {
   text-align: center;

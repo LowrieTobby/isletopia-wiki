@@ -20,7 +20,7 @@ footer: Copyright © 2021 Isletopia - Powered by Vuepress
 
   <nav-card></nav-card>
 
-## :heart: 请支持我们
+## ❤️ 请支持我们
 
 梦幻之屿目前仅接受无偿捐助， 欢迎一切对梦幻之屿服务器表示认可的捐助。梦幻之屿的发展与升级离不开你们的支持， 你们的微小支持将是我们前进的强大动力！
 
@@ -29,3 +29,11 @@ footer: Copyright © 2021 Isletopia - Powered by Vuepress
 请服主喝一杯奶茶吧：[https://afdian.net/@molean](https://afdian.net/@molean)
 
 非常感谢亲爱的玩家们的支持！
+
+
+
+## 📡 服务器状态
+
+<iframe style="width:500px;height:115px;max-width:100%;border:none;display:block;" src="https://namemc.com/server/play.molean.com/embed" width="728" height="90"></iframe>
+
+ 
