@@ -17,8 +17,30 @@ footer: Copyright © 2021 Isletopia - Powered by Vuepress
 - [魔改内容](guide/modification.html) -->
 
 ## 导航
-
-  <nav-card></nav-card>
+<html>
+  <nav-card>
+      <nav-card-item href="/guide/introduction.html">
+        <template v-slot:icon>😃</template>
+        <template v-slot:text>简单介绍</template>
+      </nav-card-item>
+    <nav-card-item href="guide/faq.html">
+      <template v-slot:icon>🤔</template>
+      <template v-slot:text>常见问题</template>
+    </nav-card-item>
+    <nav-card-item href="guide/tutorial.html">
+      <template v-slot:icon>🐣</template>
+      <template v-slot:text>新手教学</template>
+    </nav-card-item>
+    <nav-card-item href="guide/material.html">
+      <template v-slot:icon>💎</template>
+      <template v-slot:text>材料获取</template>
+    </nav-card-item>
+    <nav-card-item href="guide/modification.html">
+      <template v-slot:icon>💊</template>
+      <template v-slot:text>魔改内容</template>
+    </nav-card-item>
+  </nav-card>
+</html>
 
 ## ❤️ 请支持我们
 
@@ -34,6 +56,10 @@ footer: Copyright © 2021 Isletopia - Powered by Vuepress
 
 ## 📡 服务器状态
 
+<html>
+<center>
 <iframe style="width:500px;height:115px;max-width:100%;border:none;display:block;" src="https://namemc.com/server/play.molean.com/embed" width="728" height="90"></iframe>
+</center>
+</html>
 
  
