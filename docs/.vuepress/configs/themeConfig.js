@@ -1,3 +1,5 @@
+const sidebar = require('./sidebarConfig')
+
 module.exports = {
 
   // logo: '/assets/img/logo.svg',
@@ -39,13 +41,7 @@ module.exports = {
       ],
       sidebar: {
         collapsable: true,
-        '/guide/': [
-          'introduction',
-          'tutorial',
-          'material',
-          'modification',
-          'faq'
-        ],
+        '/guide/': sidebar,
       },
       lastUpdated: '更新于',
     },

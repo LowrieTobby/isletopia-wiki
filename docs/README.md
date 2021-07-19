@@ -36,8 +36,12 @@ footer: Copyright © 2021 Isletopia - Powered by Vuepress
       <template v-slot:text>材料获取</template>
     </nav-card-item>
     <nav-card-item href="guide/modification.html">
-      <template v-slot:icon>💊</template>
+      <template v-slot:icon>💫</template>
       <template v-slot:text>魔改内容</template>
+    </nav-card-item>
+    <nav-card-item href="guide/mechanism.html">
+      <template v-slot:icon>💊</template>
+      <template v-slot:text>特殊机制</template>
     </nav-card-item>
   </nav-card>
 </html>
@@ -61,13 +65,3 @@ footer: Copyright © 2021 Isletopia - Powered by Vuepress
 <iframe style="width:500px;height:115px;max-width:100%;border:none;display:block;" src="https://namemc.com/server/play.molean.com/embed" width="728" height="90"></iframe>
 </center>
 </html>
-
-## Test
- 
-```mermaid
-sequenceDiagram
-Alice->John: Hello John, how are you?
-loop every minute
-    John-->Alice: Great!
-end
-```
