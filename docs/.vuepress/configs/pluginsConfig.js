@@ -1,4 +1,5 @@
 module.exports = {
+  'vuepress-plugin-mermaidjs':true,
   '@vuepress/back-to-top': true,
   '@vuepress/medium-zoom': {
     selector: 'img.img-zoomable',

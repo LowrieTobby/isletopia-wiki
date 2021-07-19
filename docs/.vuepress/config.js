@@ -2,6 +2,7 @@ const pluginConfig = require('./configs/pluginsConfig');
 const headConfig = require('./configs/headConfig');
 const themeConfig = require('./configs/themeConfig');
 
+
 module.exports = {
 
   // 基本设置

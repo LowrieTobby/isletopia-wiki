@@ -62,4 +62,12 @@ footer: Copyright © 2021 Isletopia - Powered by Vuepress
 </center>
 </html>
 
+## Test
  
+```mermaid
+sequenceDiagram
+Alice->John: Hello John, how are you?
+loop every minute
+    John-->Alice: Great!
+end
+```
