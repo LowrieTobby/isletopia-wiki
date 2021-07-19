@@ -47,41 +47,41 @@ module.exports = {
     },
 
     // 英文
-    '/en/': {
-      selectText: 'Languages',
-      label: 'English',
-      ariaLabel: 'Languages',
-      editLinkText: 'Edit this page on GitHub',
-      serviceWorker: {
-        updatePopup: {
-          message: "New content is available.",
-          buttonText: "Refresh"
-        }
-      },
-      algolia: {},
-      nav: [
-        { text: 'Introduction', link: '/en/guide/introduction.html' },
-        { text: 'FAQ', link: '/en/guide/faq.html' },
-        {
-          text: 'Guide', items: [
-            { text: 'Tutorial', link: '/en/guide/tutorial.html' },
-            { text: 'Material', link: '/en/guide/material.html' },
-            { text: 'Modification', link: '/en/guide/modification.html' },
-          ]
-        },
-        { text: 'Home', link: 'http://isletopia.net' }
-      ],
-      sidebar: {
-        collapsable: true,
-        '/en/guide/': [
-          'introduction',
-          'tutorial',
-          'material',
-          'modification',
-          'faq'
-        ],
-      },
-    }
+    // '/en/': {
+    //   selectText: 'Languages',
+    //   label: 'English',
+    //   ariaLabel: 'Languages',
+    //   editLinkText: 'Edit this page on GitHub',
+    //   serviceWorker: {
+    //     updatePopup: {
+    //       message: "New content is available.",
+    //       buttonText: "Refresh"
+    //     }
+    //   },
+    //   algolia: {},
+    //   nav: [
+    //     { text: 'Introduction', link: '/en/guide/introduction.html' },
+    //     { text: 'FAQ', link: '/en/guide/faq.html' },
+    //     {
+    //       text: 'Guide', items: [
+    //         { text: 'Tutorial', link: '/en/guide/tutorial.html' },
+    //         { text: 'Material', link: '/en/guide/material.html' },
+    //         { text: 'Modification', link: '/en/guide/modification.html' },
+    //       ]
+    //     },
+    //     { text: 'Home', link: 'http://isletopia.net' }
+    //   ],
+    //   sidebar: {
+    //     collapsable: true,
+    //     '/en/guide/': [
+    //       'introduction',
+    //       'tutorial',
+    //       'material',
+    //       'modification',
+    //       'faq'
+    //     ],
+    //   },
+    // }
   },
 
   // 仓库设置
@@ -100,5 +100,5 @@ module.exports = {
   // 假如文档放在一个特定的分支下：
   docsBranch: 'master',
   // 默认是 false, 设置为 true 来启用
-  editLinks: true,
+  editLinks: false,
 }

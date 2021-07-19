@@ -4,6 +4,4 @@ module.exports = [
       'tutorial',
       'material',
       'modification',
-      'mechanism',
-      'rules'
     ]

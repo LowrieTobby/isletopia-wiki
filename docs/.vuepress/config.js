@@ -16,11 +16,11 @@ module.exports = {
       title: '梦幻之屿 Wiki',
       description: '欢迎来到梦幻之屿 Wiki 主页'
     },
-    '/en/': {
-      lang: 'en-US',
-      title: 'Isletopia Wiki',
-      description: 'Welcome to Isletopia Wiki Page'
-    }
+    // '/en/': {
+    //   lang: 'en-US',
+    //   title: 'Isletopia Wiki',
+    //   description: 'Welcome to Isletopia Wiki Page'
+    // }
   },
 
   // 插件设置

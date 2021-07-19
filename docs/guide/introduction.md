@@ -7,8 +7,9 @@ title: 简单介绍
 
 ## 基本信息
 
+<center>
 <img class="img-zoomable" :src="$withBase('/assets/img/island_b.png')" alt="islet" style="zoom:50%;" />
-
+</center>
 
 ### 什么是梦幻之屿
 
@@ -41,10 +42,13 @@ title: 简单介绍
 
 ### 与我们一起畅聊
 
-服务器交流群: 483653595 <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=5lFa2ORulp-y9jlqY3YniQaMG1xc2f5S&jump_from=webapi"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="Minecraft - 梦幻之屿 - Pro" title="Minecraft - 梦幻之屿 - Pro"></a>
+服务器交流群: 483653595 [点击加入群聊](https://qm.qq.com/cgi-bin/qm/qr?k=5lFa2ORulp-y9jlqY3YniQaMG1xc2f5S&jump_from=webapi)
 
-这是梦幻之屿服务器官方提供的（游戏内除外）唯一交流方式。⚠群成员上限为五百人，会定期清理潜水人员。 如果你只想要安心游戏，无需加入此群。梦幻之屿游戏内聊天和QQ群聊天互通。
+这是梦幻之屿服务器官方提供的（游戏内除外）唯一交流方式。
 
+::: warning 注意
+**群成员上限为500人**，会定期清理潜水人员。 如果你只想要安心游戏，无需加入此群。梦幻之屿游戏内聊天和QQ群聊天互通。
+:::
 
 ## 请支持我们:heart:
 

@@ -16,7 +16,7 @@ footer: Copyright © 2021 Isletopia - Powered by Vuepress
 - [材料获取](guide/material.html)
 - [魔改内容](guide/modification.html) -->
 
-## 导航
+## 🧭 常用导航
 <html>
   <nav-card>
       <nav-card-item href="/guide/introduction.html">
@@ -48,7 +48,7 @@ footer: Copyright © 2021 Isletopia - Powered by Vuepress
 
 ## ❤️ 请支持我们
 
-梦幻之屿目前仅接受无偿捐助， 欢迎一切对梦幻之屿服务器表示认可的捐助。梦幻之屿的发展与升级离不开你们的支持， 你们的微小支持将是我们前进的强大动力！
+**梦幻之屿目前仅接受无偿捐助， 欢迎一切对梦幻之屿服务器表示认可的捐助。梦幻之屿的发展与升级离不开你们的支持， 你们的微小支持将是我们前进的强大动力！**
 
 梦幻之屿官方唯一捐助平台：爱发电
 
