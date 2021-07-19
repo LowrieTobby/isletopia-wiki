@@ -1,6 +1,6 @@
 # Isletopia Wiki
 
-![build-status](https://img.shields.io/jenkins/build?jobUrl=http%3A%2F%2Fhub.isletopia.net%2Fjenkins%2Fview%2Fweb%2Fjob%2Fisletopia-wiki%2F)
+![build-status](https://img.shields.io/jenkins/build?jobUrl=http%3A%2F%2F47.96.27.28:9080%2Fjenkins%2Fview%2Fweb%2Fjob%2Fisletopia-wiki%2F)
 ![vuepress-versoin](https://img.shields.io/badge/vuepress-1.8.1-blue)
 ![npm-versoin](https://img.shields.io/badge/npm-6.13.7-blue)
 
