@@ -9,13 +9,6 @@ footer: Copyright © 2021 Isletopia - Powered by Vuepress
 我们的 wiki 将会不断完善，当前显示的内容不代表最终内容
 :::
 
-<!-- ## 导航
-- [简单介绍](guide/introduction.html)
-- [常见问题](guide/faq.html)
-- [新手教学](guide/tutorial.html)
-- [材料获取](guide/material.html)
-- [魔改内容](guide/modification.html) -->
-
 ## 🧭 常用导航
 <html>
   <nav-card>
