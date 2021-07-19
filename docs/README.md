@@ -10,7 +10,7 @@ footer: Copyright © 2021 Isletopia - Powered by Vuepress
 :::
 
 <!-- ## 导航
-- [简单介绍](guide/introduction.html)
+- [简单](guide/intoduction.html)
 - [常见问题](guide/faq.html)
 - [新手教学](guide/tutorial.html)
 - [材料获取](guide/material.html)
@@ -34,6 +34,6 @@ footer: Copyright © 2021 Isletopia - Powered by Vuepress
 
 ## 📡 服务器状态
 
-<iframe style="width:500px;height:115px;max-width:100%;border:none;display:block;" src="https://namemc.com/server/play.molean.com/embed" width="728" height="90"></iframe>
+<iframe style="margin:0 auto;width:100%;max-width:100%;border:none;display:block;" src="https://namemc.com/server/play.molean.com/embed" width="728" height="90"></iframe>
 
  
