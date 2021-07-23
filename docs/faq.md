@@ -1,5 +1,6 @@
 ---
 title: 常见问题
+sidebar: auto
 ---
 # 常见问题
 

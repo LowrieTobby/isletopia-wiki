@@ -1,5 +1,6 @@
 ---
 title: 简单介绍
+sidebar: auto
 ---
 
 # 简单介绍
@@ -7,8 +8,14 @@ title: 简单介绍
 
 ## 基本信息
 
+
 <center>
-<img class="img-zoomable" :src="$withBase('/assets/img/island_b.png')" alt="islet" style="zoom:50%;" />
+<div style="margin: 20px 0px">
+  <img class="img-zoomable" :src="$withBase('/assets/img/island_b.png')" alt="islet" style="zoom:50%;" />
+</div>
+<div style="margin: 20px 0px">
+  <img :src="$withBase('/assets/img/logo.svg')" height="60px"/>
+</div>
 </center>
 
 ### 什么是梦幻之屿

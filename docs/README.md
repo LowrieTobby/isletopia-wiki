@@ -5,18 +5,18 @@ footer: Copyright © 2021 Isletopia - Powered by Vuepress
 
 
 <!-- <center><img :src="$withBase('/assets/img/island_b.png')" alt="islet" style="zoom:50%;"/></center> -->
-::: tip
-我们的 wiki 将会不断完善，当前显示的内容不代表最终内容
+::: warning 注意
+我们的 wiki 还在建设中，当前显示的内容不代表最终内容
 :::
 
 ## 🧭 常用导航
 <html>
   <nav-card>
-      <nav-card-item href="/guide/introduction.html">
+      <nav-card-item href="introduction.html">
         <template v-slot:icon>😃</template>
         <template v-slot:text>简单介绍</template>
       </nav-card-item>
-    <nav-card-item href="guide/faq.html">
+    <nav-card-item href="faq.html">
       <template v-slot:icon>🤔</template>
       <template v-slot:text>常见问题</template>
     </nav-card-item>

@@ -7,9 +7,9 @@ module.exports = {
 
   // 基本设置
   base: '/',
-  title: '梦幻之屿 - 手册',
+  title: '梦幻之屿 - Wiki',
   head: headConfig,
-  description: '梦幻之屿帮助手册主页',
+  description: '梦幻之屿 Wiki',
   locales: {
     '/': {
       lang: 'zh-CN',

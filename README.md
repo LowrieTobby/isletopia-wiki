@@ -1,12 +1,14 @@
-# Isletopia Wiki
+# 梦幻之屿 Wiki
+
+Isletopia Wiki
 
 ![build-status](https://img.shields.io/jenkins/build?jobUrl=http%3A%2F%2F47.96.27.28:9080%2Fjenkins%2Fview%2Fweb%2Fjob%2Fisletopia-wiki%2F)
 ![vuepress-versoin](https://img.shields.io/badge/vuepress-1.8.1-blue)
 ![npm-versoin](https://img.shields.io/badge/npm-6.13.7-blue)
 
-> [Isletopia](https://isletopia.net/) 是由 [Molean](https://github.com/cnMolean) 与其团队创立的一个 Minecraft 服务器
+> 梦幻之屿 [Isletopia](https://isletopia.net/) 是由 [Molean](https://github.com/cnMolean) 与其团队创立的一个 Minecraft 服务器
 >
-> 这里是此文档项目的源码仓库。如果要阅读此文档原文，请访问 http://wiki.isletopia.net/
+> 这里是此文档项目的源码仓库。如果要完整阅读此文档原文，请访问 http://wiki.isletopia.net/
 
 
 
@@ -18,9 +20,33 @@ Isletopia Wiki 基于 `vuepress` 博客框架进行开发
 
 
 
+## 计划与完成度
+
+### 板块完成度
+
+| 板块                    | 完成度             | 备注 |
+| ----------------------- | ------------------ | ---- |
+| 首页 (home)             | 已完成，持续完善中 |      |
+| 简单介绍 (introduction) | 已完成，持续完善中 |      |
+| 常见问题 (FAQ)          | 未编辑             |      |
+| 新手教学 (tutorial)     | 未编辑             |      |
+| 材料获取 (material)     | 已编辑，等待完善   |      |
+| 魔改内容 (modification) | 已完成，持续完善中 |      |
+| 特殊机制 (mechanism)    | 已编辑，等待完善   |      |
+| 规则 (rules)            | 已编辑，等待完善   |      |
+
+### 计划添加内容
+
+- [ ] FAQ 评论通道
+- [ ] 夜间模式
+- [ ] 展示捐助者名单
+
+
+
+
 ## 帮助我们改进
 
-Isletopia Wiki 还在完善当中，如果你有更好的想法或者建议，欢迎帮助我们改进
+梦幻之屿 Wiki 还在完善当中，如果你有更好的想法或者建议，欢迎帮助我们改进
 
 
 
@@ -43,7 +69,7 @@ Isletopia Wiki 还在完善当中，如果你有更好的想法或者建议，�
 
 点击右上角 clone 按钮下载该项目所有文件到本地
 
-使用任何IDE打开该项目
+使用任何IDE打开该项目，推荐使用 [vscode](https://code.visualstudio.com) IDE
 
 
 
@@ -74,6 +100,23 @@ npm run docs:dev
 所有文档存放目录均在 `/docs/` 目录下
 
 - 中文文档路径 `/docs/guide`
-
 - 英文文档路径 `/docs/en/guide`
+
+
+
+#### 文档结构
+
+```
+|-- docs  
+    |-- guide  
+        |-- bump.md  			顶帖奖励
+        |-- faq.md				常见问题(FAQ)
+        |-- introduction.md		简单介绍
+        |-- material.md			材料获取
+        |-- mechanism.md		特殊机制
+        |-- modification.md		魔改内容
+        |-- rules.md			规则
+        |-- system.md			
+        |-- tutorial.md			新手教学
+```
 
