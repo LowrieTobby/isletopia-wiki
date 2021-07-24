@@ -5,15 +5,13 @@
 </template>
 
 <script>
-  export default  {};
+export default {};
 </script>
 
 <style scoped>
-
-  /* $theme-color: #42b983; */
+/* $theme-color: #42b983; */
 
 .nav-card {
-  justify-content: center;
   overflow: auto;
   display: flex;
   margin: 16px 0px;
