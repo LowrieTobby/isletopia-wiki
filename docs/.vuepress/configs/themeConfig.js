@@ -35,7 +35,6 @@ module.exports = {
           text: '玩家手册', items: [
             { text: '游戏规则', link: '/guide/rules.html' },
             { text: '新手教学', link: '/guide/tutorial.html' },
-            { text: '材料获取', link: '/guide/material.html' },
             { text: '魔改内容', link: '/guide/modification.html' },
             { text: '特殊机制', link: '/guide/mechanism.html' },
           ]
@@ -55,7 +54,6 @@ module.exports = {
         '/guide/': [
           'rules',
           'tutorial',
-          'material',
           'modification',
           'mechanism',
         ],
