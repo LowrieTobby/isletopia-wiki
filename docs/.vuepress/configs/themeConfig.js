@@ -28,6 +28,7 @@ module.exports = {
       nav: [
         { text: '首页', link: '/#' },
         { text: '简介', link: '/introduction.html' },
+        { text: '社团', link: '/club.html' },
         { text: 'FAQ', link: '/faq.html' },
         {
           text: '玩家手册', items: [
