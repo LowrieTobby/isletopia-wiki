@@ -31,7 +31,7 @@ module.exports = {
         { text: 'FAQ', link: '/faq.html' },
         {
           text: '玩家手册', items: [
-            { text: '规则', link: '/guide/rules.html' },
+            { text: '游戏规则', link: '/guide/rules.html' },
             { text: '新手教学', link: '/guide/tutorial.html' },
             { text: '材料获取', link: '/guide/material.html' },
             { text: '魔改内容', link: '/guide/modification.html' },
@@ -63,7 +63,8 @@ module.exports = {
             collapsable: false,
             sidebarDepth: 1,
             children: [
-              'bump'
+              'bump',
+              'studybump'
             ]
           },
           {
