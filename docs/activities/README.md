@@ -11,7 +11,8 @@ title: 活动
 
 ## 长期活动
 
-- ### [顶帖奖励](bump.md) <Badge text="new" type="tip"/><Badge text="置顶" type="warning"/>
+- ### [顶帖奖励](bump.md) <Badge text="置顶" type="warning"/>
+- ### [学习激励计划](studybump.md) <Badge text="置顶" type="warning"/>
 
 ## 正在进行 
 
