@@ -42,7 +42,7 @@ module.exports = {
         { text: '活动',link: '/activities/'},
         { 
           text: '相关链接', items: [
-            { text: '主页', link: 'http://isletopia.net' },
+            // { text: '主页', link: 'http://isletopia.net' },
             { text: '皮肤站', link: 'http://skin.molean.com/' },
             { text: '捐助', link: 'https://afdian.net/@molean' },
             { text: 'MCBBS宣传贴', link: 'http://mcbbs.molean.com' },
