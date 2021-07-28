@@ -16,7 +16,7 @@ footer: Copyright © 2021 Isletopia - Powered by Vuepress
         <template v-slot:icon>😃</template>
         <template v-slot:text>简单介绍</template>
     </nav-card-item>
-    <nav-card-item href="system.html">
+    <nav-card-item href="feature.html">
       <template v-slot:icon>💎</template>
       <template v-slot:text>特色系统</template>
     </nav-card-item>
@@ -41,6 +41,7 @@ footer: Copyright © 2021 Isletopia - Powered by Vuepress
 
   </nav-card>
 </html>
+
 
 ## ❤️ 请支持我们
 
