@@ -28,12 +28,13 @@ module.exports = {
       nav: [
         { text: '首页', link: '/#' },
         { text: '简介', link: '/introduction.html' },
-        { text: 'FAQ', link: '/faq.html' },
+        { text: '特色系统', link: '/system.html' },
+        { text: '社团制度', link: '/club.html' },
+        { text: '常见问答', link: '/faq.html' },
         {
           text: '玩家手册', items: [
-            { text: '规则', link: '/guide/rules.html' },
+            { text: '游戏规则', link: '/guide/rules.html' },
             { text: '新手教学', link: '/guide/tutorial.html' },
-            { text: '材料获取', link: '/guide/material.html' },
             { text: '魔改内容', link: '/guide/modification.html' },
             { text: '特殊机制', link: '/guide/mechanism.html' },
           ]
@@ -42,7 +43,7 @@ module.exports = {
         { text: '活动',link: '/activities/'},
         { 
           text: '相关链接', items: [
-            { text: '主页', link: 'http://isletopia.net' },
+            // { text: '主页', link: 'http://isletopia.net' },
             { text: '皮肤站', link: 'http://skin.molean.com/' },
             { text: '捐助', link: 'https://afdian.net/@molean' },
             { text: 'MCBBS宣传贴', link: 'http://mcbbs.molean.com' },
@@ -53,7 +54,6 @@ module.exports = {
         '/guide/': [
           'rules',
           'tutorial',
-          'material',
           'modification',
           'mechanism',
         ],
@@ -63,7 +63,8 @@ module.exports = {
             collapsable: false,
             sidebarDepth: 1,
             children: [
-              'bump'
+              'bump',
+              'studybump'
             ]
           },
           {
