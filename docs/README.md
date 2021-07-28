@@ -12,21 +12,21 @@ footer: Copyright © 2021 Isletopia - Powered by Vuepress
 ## 🧭 常用导航
 <html>
   <nav-card>
-      <nav-card-item href="introduction.html">
+    <nav-card-item href="introduction.html">
         <template v-slot:icon>😃</template>
         <template v-slot:text>简单介绍</template>
-      </nav-card-item>
+    </nav-card-item>
+    <nav-card-item href="system.html">
+      <template v-slot:icon>💎</template>
+      <template v-slot:text>特色系统</template>
+    </nav-card-item>
     <nav-card-item href="faq.html">
       <template v-slot:icon>🤔</template>
       <template v-slot:text>常见问题</template>
     </nav-card-item>
-    <nav-card-item href="guide/tutorial.html">
-      <template v-slot:icon>🐣</template>
-      <template v-slot:text>新手教学</template>
-    </nav-card-item>
-    <nav-card-item href="guide/material.html">
-      <template v-slot:icon>💎</template>
-      <template v-slot:text>材料获取</template>
+    <nav-card-item href="club.html">
+      <template v-slot:icon>👨‍👩‍👦‍👦</template>
+      <template v-slot:text>社团机制</template>
     </nav-card-item>
     <nav-card-item href="guide/modification.html">
       <template v-slot:icon>💫</template>
@@ -36,6 +36,9 @@ footer: Copyright © 2021 Isletopia - Powered by Vuepress
       <template v-slot:icon>💊</template>
       <template v-slot:text>特殊机制</template>
     </nav-card-item>
+
+
+
   </nav-card>
 </html>
 
