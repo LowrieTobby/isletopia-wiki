@@ -11,6 +11,7 @@ title: 魔改内容
 > 平衡影响: ★★☆☆☆
 >
 > 游戏感知: ★★☆☆☆
+
 梦幻之屿<=Airplane<=Tuinity<=Paper<=Spigot<=Bukkit<=Mojang
 
 梦幻之屿的核心选用的是Airplane,Airplane的上游分支是Tuinity,Tuinity的上游分支是Paper, Paper的上游分支是Spigot, 而Spigot上游是Bukkit, Bukkit上游是Mojang。 
