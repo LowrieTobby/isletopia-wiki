@@ -110,6 +110,8 @@ sidebar: auto
 
    在二三四行可以随意输入内容用于备注。
 
+   <img class="img-zoomable" :src="$withBase('/assets/img/misc/mechanism-1.png')" style="border-radius: 6px;zoom: 50%;"/>
+
 4. 收藏夹
 
    当一个玩家在线时，你将其收藏，之后就可以通过收藏夹访问TA的岛屿。

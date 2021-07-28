@@ -30,7 +30,7 @@ module.exports = {
         { text: '简介', link: '/introduction.html' },
         { text: '特色系统', link: '/feature.html' },
         { text: '社团制度', link: '/club.html' },
-        { text: '常见问答', link: '/faq.html' },
+        { text: '常见问题', link: '/faq.html' },
         {
           text: '玩家手册', items: [
             { text: '游戏规则', link: '/guide/rules.html' },
