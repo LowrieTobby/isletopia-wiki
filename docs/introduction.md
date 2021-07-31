@@ -11,7 +11,7 @@ sidebar: auto
 
 <center>
 <div style="margin: 20px 0px">
-  <img class="img-zoomable" :src="$withBase('/assets/img/island_b.png')" alt="islet" style="zoom:50%;" />
+  <img :src="$withBase('/assets/img/island_b.png')" alt="islet" style="zoom:50%;" />
 </div>
 <div style="margin: 20px 0px">
   <img :src="$withBase('/assets/img/logo.svg')" height="60px"/>
@@ -49,7 +49,7 @@ sidebar: auto
 
 ### 与我们一起畅聊
 
-服务器交流群: 483653595 [点击加入群聊](https://qm.qq.com/cgi-bin/qm/qr?k=5lFa2ORulp-y9jlqY3YniQaMG1xc2f5S&jump_from=webapi)
+服务器交流群:  [483653595](https://qm.qq.com/cgi-bin/qm/qr?k=5lFa2ORulp-y9jlqY3YniQaMG1xc2f5S&jump_from=webapi)
 
 这是梦幻之屿服务器官方提供的（游戏内除外）唯一交流方式。
 

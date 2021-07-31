@@ -1,4 +1,5 @@
 module.exports = {
+  '@vuepress/pwa': true,
   'vuepress-plugin-mermaidjs':true,
   '@vuepress/back-to-top': true,
   '@vuepress/medium-zoom': {
