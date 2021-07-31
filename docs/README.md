@@ -49,7 +49,8 @@ footer: Copyright © 2021 Isletopia - Powered by Vuepress
 
 梦幻之屿官方唯一捐助平台：爱发电
 
-请服主喝一杯奶茶吧：[https://afdian.net/@molean](https://afdian.net/@molean)
+<s>请服主喝一杯奶茶吧</s>
+你的所有捐助都会用于服务器续费和升级：[https://afdian.net/@molean](https://afdian.net/@molean)
 
 非常感谢亲爱的玩家们的支持！
 
