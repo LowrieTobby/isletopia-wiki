@@ -145,7 +145,7 @@ sidebar: auto
 
 2. 查阅本页面的其他问题
 
-3. 在[Minecraft Wiki](https://minecraft.fandom.com/zh/wiki/Minecraft_Wiki)页面查找物品获取方法
+3. 在 [Minecraft Wiki](https://minecraft.fandom.com/zh/wiki/Minecraft_Wiki) 页面查找物品获取方法
 
 4. 在QQ群或游戏内提问
 
