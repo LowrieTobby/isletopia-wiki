@@ -74,6 +74,7 @@ module.exports = {
             children: [
               '2021-07-21',
               '2021-07-20',
+              'sculpture',
             ]
           },
         ],
