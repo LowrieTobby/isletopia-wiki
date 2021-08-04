@@ -56,10 +56,14 @@ footer: Copyright © 2021 Isletopia - Powered by Vuepress
 
 
 
-## 📡 服务器状态
+[comment]: <> (## 📡 服务器状态)
 
-<html>
-<center>
-<iframe style="width:500px;height:115px;max-width:100%;border:none;display:block;" src="https://namemc.com/server/play.molean.com/embed" width="728" height="90"></iframe>
-</center>
-</html>
+[comment]: <> (<html>)
+
+[comment]: <> (<center>)
+
+[comment]: <> (<iframe style="width:500px;height:115px;max-width:100%;border:none;display:block;" src="https://namemc.com/server/play.molean.com/embed" width="728" height="90"></iframe>)
+
+[comment]: <> (</center>)
+
+[comment]: <> (</html>)
