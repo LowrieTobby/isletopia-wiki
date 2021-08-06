@@ -197,6 +197,14 @@ sidebar: auto
 
 如果你提交了加群申请，缺迟迟没有回应，那是因为你的账号加群提示被腾讯屏蔽了，请更换QQ号或过一段时间再加群。
 
+如果无法搜索到QQ群，请扫描下面的二维码：
+
+<center>
+<div style="margin: 20px 0px">
+  <img :src="$withBase('/assets/img/group.jpg')" alt="group QC" style="zoom:50%;" />
+</div>
+</center>
+
 ## 我能否使用XX模组？
 
 如非必要请使用 [梦幻之屿提供的客户端](https://cdn.molean.com/Client.zip)。
