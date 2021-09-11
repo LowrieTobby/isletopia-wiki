@@ -72,9 +72,8 @@ module.exports = {
             collapsable: false,
             sidebarDepth: 1,
             children: [
-              '2021-07-21',
-              '2021-07-20',
-              'sculpture',
+              '冰球',
+              'skywar',
             ]
           },
         ],
