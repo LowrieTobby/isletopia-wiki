@@ -42,6 +42,13 @@ footer: Copyright © 2021 Isletopia - Powered by Vuepress
   </nav-card>
 </html>
 
+## Minecraft Wiki
+
+梦幻之屿服务器是基于Minecraft原版的服务器，你需要对原版游戏有一定了解，如果遇到任何原版游戏的问题，可以前往[MinecraftWiki](https://minecraft.fandom.com/)找到答案。
+
+学会使用[MinecraftWiki](https://minecraft.fandom.com/)是新手到大佬的必经之路。
+
+
 
 ## ❤️ 请支持我们
 
@@ -49,12 +56,19 @@ footer: Copyright © 2021 Isletopia - Powered by Vuepress
 
 梦幻之屿官方唯一捐助平台：爱发电
 
-<s>请服主喝一杯奶茶吧</s>
 你的所有捐助都会用于服务器续费和升级：[https://afdian.net/@molean](https://afdian.net/@molean)
 
-非常感谢亲爱的玩家们的支持！
+服务器目前采用的配置是：
+CPU：AMD R7 3700X
+主板：ROG STRIX X570-F GAMING
+内存：海力士 4*8G = 32G
+硬盘：1T MLC + 2T 机械异地备份
 
+服务器计划升级:
+CPU：AMD R9 5950X
+内存：海力士 16*4 = 64G
 
+如果玩家有能力可以在爱发电直接捐助服务器，也接受邮寄相关硬件，如有意向请联系服主Molean。
 
 [comment]: <> (## 📡 服务器状态)
 
