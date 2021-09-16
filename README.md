@@ -6,9 +6,9 @@ Isletopia Wiki
 ![vuepress-versoin](https://img.shields.io/badge/vuepress-1.8.1-blue)
 ![npm-versoin](https://img.shields.io/badge/npm-6.13.7-blue)
 
-> 梦幻之屿 [Isletopia](https://isletopia.net/) 是由 [Molean](https://github.com/cnMolean) 与其团队创立的一个 Minecraft 服务器
+> 梦幻之屿 [Isletopia](http://wiki.islet.world/introduction.html#%E4%BB%80%E4%B9%88%E6%98%AF%E6%A2%A6%E5%B9%BB%E4%B9%8B%E5%B1%BF) 是由 [Molean](https://github.com/cnMolean) 与其团队创立的一个 Minecraft 服务器
 >
-> 这里是此文档项目的源码仓库。如果要完整阅读此文档原文，请访问 http://wiki.isletopia.net/
+> 这里是此文档项目的源码仓库。如果要完整阅读此文档原文，请访问 http://wiki.molean.com/
 
 
 
