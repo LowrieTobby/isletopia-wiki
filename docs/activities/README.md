@@ -7,17 +7,13 @@ title: 活动
 在这里你可以了解到服务器正在进行的活动以及活动的详细信息
 :::
 
-
 <!-- <img :src="$withBase('/assets/img/modes-minecraft-survive.jpg')" style="border-radius: 7px;"/> -->
 
-## 长期活动
+## 正在进行
 
-- ### [学习激励计划](studybump.md) <Badge text="置顶" type="warning"/> <Badge text="new" type="tip"/>
-- ### [顶帖奖励](bump.md) <Badge text="置顶" type="warning"/>
+- [顶帖奖励](bump.md) <Badge text="长期活动" type="warning"/>
+- [学习激励计划](studybump.md) <Badge text="长期活动" type="warning"/>
+- [冰球](bingqiu.md) <Badge text="长期活动" type="warning"/><Badge text="new" type="tip"/>
+- [岛屿空战](skywar.md) <Badge text="new" type="tip"/>
 
-## 正在进行 
-
-- ### [雕塑活动](sculpture.md) 
-- ### [岛屿合并](2021-07-21.md) 
-- ### [小游戏设计大赛](2021-07-20.md) 
-
+## 已结束

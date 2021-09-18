@@ -43,7 +43,10 @@ title: 冰球
 
 ## 附件
 鸡腿棒子指令
+```
 /give @p minecraft:blaze_rod{display:{Name:"[{\"text\":\"鸡腿棒子\",\"color\":\"gold\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}]",Lore:["{\"text\":\"2021年冰球比赛常规赛/国庆淘汰赛纪念品\",\"color\":\"aqua\",\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}","{\"text\":\"作为冰球比赛种子选手，纪念品是最好的实力证明~\",\"color\":\"white\",\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}"]}} 1
+```
+
 ## 群公告内容
 冰球比赛活动进行中
 想要在空岛生存里获得一些乐趣？想要获得一些难以获得的物品？
