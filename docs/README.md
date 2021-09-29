@@ -59,6 +59,7 @@ footer: Copyright © 2021 Isletopia - Powered by Vuepress
 你的所有捐助都会用于服务器续费和升级：[https://afdian.net/@molean](https://afdian.net/@molean)
 
 服务器目前采用的配置是：
+
 CPU：AMD R7 3700X
 
 主板：ROG STRIX X570-F GAMING
