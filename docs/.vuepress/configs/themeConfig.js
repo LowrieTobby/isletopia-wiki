@@ -67,6 +67,7 @@ module.exports = {
               'studybump',
               'bingqiu',
               'skywar',
+              'like',
             ]
           },
         ],
