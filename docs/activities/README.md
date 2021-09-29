@@ -10,6 +10,8 @@ title: 活动
 
 <!-- <img :src="$withBase('/assets/img/modes-minecraft-survive.jpg')" style="border-radius: 7px;"/> -->
 
+==**该页面过期,请在左边的侧边栏中直接查看活动信息**==
+
 ## 长期活动
 
 - ### [学习激励计划](studybump.md) <Badge text="置顶" type="warning"/> <Badge text="new" type="tip"/>
