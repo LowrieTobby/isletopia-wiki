@@ -52,7 +52,7 @@ sidebar: auto
 
 ## 进入游戏
 
-服务器IP为：`islet.world`
+服务器IP为：play.islet.world
 
 你可以使用任意最新版客户端加入梦幻之屿服务器，包括基岩版和Java版。
 

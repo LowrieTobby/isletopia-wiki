@@ -46,7 +46,7 @@ module.exports = {
             // { text: '主页', link: 'http://isletopia.net' },
             { text: '皮肤站', link: 'http://skin.molean.com/' },
             { text: '捐助', link: 'https://afdian.net/@molean' },
-            { text: 'MCBBS宣传贴', link: 'http://mcbbs.molean.com' },
+            { text: 'MCBBS宣传贴', link: 'http://mcbbs.islet.world' },
           ]
         },
       ],
