@@ -15,5 +15,6 @@ title: 活动
 - [学习激励计划](studybump.md) <Badge text="长期活动" type="warning"/>
 - [冰球](bingqiu.md) <Badge text="长期活动" type="warning"/><Badge text="new" type="tip"/>
 - [岛屿空战](skywar.md) <Badge text="new" type="tip"/>
+- [NameMC点赞](like.md) <Badge text="new" type="tip"/>
 
 ## 已结束
