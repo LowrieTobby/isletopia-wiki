@@ -30,7 +30,7 @@ module.exports = {
         { text: '简介', link: '/introduction.html' },
         { text: '常见问答', link: '/faq.html' },
         { text: '特色系统', link: '/feature.html' },
-        { text: '社团制度', link: '/club.html' },
+        { text: '社团', link: '/club.html' },
         {
           text: '玩家手册', items: [
             { text: '游戏规则', link: '/guide/rules.html' },
@@ -59,20 +59,13 @@ module.exports = {
         ],
         '/activities/':[
           {
-            title: '长期活动',
-            collapsable: false,
-            sidebarDepth: 1,
-            children: [
-              'bump',
-              'studybump'
-            ]
-          },
-          {
             title: '正在进行',
             collapsable: false,
             sidebarDepth: 1,
             children: [
-              '冰球',
+              'bump',
+              'studybump',
+              'bingqiu',
               'skywar',
             ]
           },
