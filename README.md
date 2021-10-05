@@ -116,8 +116,8 @@ npm run docs:dev
     |   |-- 2021-07-20.md
     |   |-- 2021-07-21.md
     |   |-- bump.md
-    |   |-- README.md			// 活动页面主页
     |   |-- studybump.md
+    |   |-- README.md			// 活动页面主页
     |-- guide					// 玩家手册 (该文件夹存放所有玩家手册相关内容)
         |-- mechanism.md		// 特殊机制
         |-- modification.md		// 魔改内容
