@@ -12,9 +12,9 @@ title: 魔改内容
 >
 > 游戏感知: ★★☆☆☆
 
-> 梦幻之屿<=Airplane<=Tuinity<=Paper<=Spigot<=Bukkit<=Mojang
+> 梦幻之屿Paper<=Spigot<=Bukkit<=Mojang
 
-梦幻之屿的核心选用的是Airplane,Airplane的上游分支是Tuinity,Tuinity的上游分支是Paper, Paper的上游分支是Spigot, 而Spigot上游是Bukkit, Bukkit上游是Mojang。 
+梦幻之屿的核心选用的是Paper, Paper的上游分支是Spigot, 而Spigot上游是Bukkit, Bukkit上游是Mojang。 
 这条链上的任何修改包括Bug等都会直接在梦幻之屿服务器游戏中体现。
 
 Spigot与Bukkit对服务端修改较少, 可以忽略, 但Paper影响较大。你可以在这里找到所有Paper对服务端的修改: https://github.com/PaperMC/Paper/tree/master/Spigot-Server-Patches

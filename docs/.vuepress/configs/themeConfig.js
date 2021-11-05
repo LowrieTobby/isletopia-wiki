@@ -65,8 +65,8 @@ module.exports = {
             children: [
               'bump',
               'studybump',
-              'bingqiu',
-              'skywar',
+              // 'bingqiu',
+              // 'skywar',
               'like',
             ]
           },
