@@ -58,25 +58,6 @@ footer: Copyright © 2021 Isletopia - Powered by Vuepress
 
 你的所有捐助都会用于服务器续费和升级：[https://afdian.net/@molean](https://afdian.net/@molean)
 
-服务器目前采用的配置是：
-
-CPU：AMD R7 3700X
-
-主板：ROG STRIX X570-F GAMING
-
-内存：海力士 4*8G = 32G
-
-硬盘：1T MLC + 2T 机械异地备份
-
-
-服务器计划升级:
-
-CPU：AMD R9 5950X
-
-内存：海力士 16*4 = 64G
-
-如果玩家有能力可以在爱发电直接捐助服务器，也接受邮寄相关硬件，如有意向请联系服主Molean。
-
 [comment]: <> (## 📡 服务器状态)
 
 [comment]: <> (<html>)

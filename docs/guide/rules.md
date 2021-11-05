@@ -117,7 +117,7 @@ title: 规则与设定
 
 服务器对原版进行了一些修改，还添加了一些有趣的特殊机制。
 
-你可以在这里找到它们的详情：[魔改内容](guide/modification.md) 与 [特殊机制](guide/mechanism.md)
+你可以在这里找到它们的详情：[魔改内容](modification.md) 与 [特殊机制](mechanism.md)
 
 ## 发言规则
 
