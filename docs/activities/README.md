@@ -4,7 +4,9 @@ title: 活动
 
 # 活动列表
 ::: tip
-在这里你可以了解到服务器正在进行的活动以及活动的详细信息
+在这里你可以了解到服务器正在进行的活动以及活动的详细信息。
+
+由于Wiki更新不及时，短期活动请前往QQ群群文件-进行中的活动查看。
 :::
 
 <!-- <img :src="$withBase('/assets/img/modes-minecraft-survive.jpg')" style="border-radius: 7px;"/> -->
@@ -14,6 +16,7 @@ title: 活动
 - [顶帖奖励](bump.md) <Badge text="长期活动" type="tip"/>
 - [学习激励计划](studybump.md) <Badge text="长期活动" type="tip"/>
 - [NameMC点赞](like.md) <Badge text="长期活动" type="tip"/>
+- [杰出贡献激励](contribution.md) <Badge text="长期活动" type="tip"/>
 
 ## 已结束
 
