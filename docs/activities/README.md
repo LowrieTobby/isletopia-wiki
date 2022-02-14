@@ -14,12 +14,11 @@ title: 活动
 ## 正在进行
 
 - [顶帖奖励](bump.md) <Badge text="长期活动" type="tip"/>
-- [学习激励计划](studybump.md) <Badge text="长期活动" type="tip"/>
 - [NameMC点赞](like.md) <Badge text="长期活动" type="tip"/>
 - [杰出贡献激励](contribution.md) <Badge text="长期活动" type="tip"/>
 
 ## 已结束
-
+- [学习激励计划](studybump.md) <Badge text="长期活动" type="tip"/> <Badge text="已结束" type="warning"/>
 - [冰球](bingqiu.md) <Badge text="已结束" type="warning"/>
 - [空战](skywar.md) <Badge text="已结束" type="warning"/>
 - [雕塑](sculpture.md) <Badge text="已结束" type="warning"/>

@@ -168,7 +168,9 @@ sidebar: auto
 
 3. 在 [Minecraft Wiki](https://minecraft.fandom.com/zh/wiki/Minecraft_Wiki) 页面查找物品获取方法
 
-4. 在QQ群或游戏内提问
+4. 查阅[梦幻之屿部分物品/生物获取指南](https://shimo.im/docs/hTPJjG8DDhRRhggR) (特别感谢:由PotatoChips87编写)
+
+5. 在QQ群或游戏内提问
 
 
 ## 为什么我流浪商人被杀了/消失了/不生成？
