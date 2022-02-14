@@ -64,7 +64,7 @@ module.exports = {
             sidebarDepth: 1,
             children: [
               'bump',
-              'studybump',
+              // 'studybump',
               'contribution',
               // 'bingqiu',
               // 'skywar',
