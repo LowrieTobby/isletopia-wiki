@@ -4,6 +4,10 @@ sidebar: auto
 ---
 # 常见问题
 
+::: warning
+以下问答均已过时。请加入QQ频道：[点击链接加入QQ频道【梦幻之屿】](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=1W4NRpT&appChannel=share&businessType=9&from=181074&biz=ka&shareSource=5)
+:::
+
 ::: tip 提示
 以下问题为常见问题，是对原版MC特性和服务器特殊机制的应用题，而相关知识点都位于MinecraftWiki和梦幻之屿的玩家手册中。
 

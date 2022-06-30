@@ -6,7 +6,7 @@ title: 活动
 ::: tip
 在这里你可以了解到服务器正在进行的活动以及活动的详细信息。
 
-由于Wiki更新不及时，短期活动请前往QQ群群文件-进行中的活动查看。
+由于Wiki更新不及时，请加入QQ频道：[点击链接加入QQ频道【梦幻之屿】](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=1W4NRpT&appChannel=share&businessType=9&from=181074&biz=ka&shareSource=5)
 :::
 
 <!-- <img :src="$withBase('/assets/img/modes-minecraft-survive.jpg')" style="border-radius: 7px;"/> -->

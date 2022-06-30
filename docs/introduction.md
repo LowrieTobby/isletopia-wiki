@@ -70,6 +70,9 @@ sidebar: auto
 
 ## 一起畅聊
 
+请加入QQ频道：[点击链接加入QQ频道【梦幻之屿】](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=1W4NRpT&appChannel=share&businessType=9&from=181074&biz=ka&shareSource=5)
+
+
 
 服务器交流群:  [483653595](https://qm.qq.com/cgi-bin/qm/qr?k=5lFa2ORulp-y9jlqY3YniQaMG1xc2f5S&jump_from=webapi)
 
