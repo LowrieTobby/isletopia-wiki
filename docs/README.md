@@ -6,7 +6,7 @@ footer: Copyright © 2021 Isletopia - Powered by Vuepress
 
 <!-- <center><img :src="$withBase('/assets/img/island_b.png')" alt="islet" style="zoom:50%;"/></center> -->
 ::: warning 注意
-我们的 wiki 还在建设中，当前显示的内容不代表最终内容
+由于Wiki更新不及时，如需获取最新咨询，请加入QQ频道。[点击链接加入QQ频道【梦幻之屿】](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=1W4NRpT&appChannel=share&businessType=9&from=181074&biz=ka&shareSource=5)
 :::
 
 ## 🧭 常用导航
