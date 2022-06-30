@@ -5,6 +5,8 @@ title: 活动
 # 活动列表
 ::: tip
 在这里你可以了解到服务器正在进行的活动以及活动的详细信息
+
+部分活动仅在群文件发布，请留意群文件中的相关文件夹。
 :::
 
 <!-- <img :src="$withBase('/assets/img/modes-minecraft-survive.jpg')" style="border-radius: 7px;"/> -->
