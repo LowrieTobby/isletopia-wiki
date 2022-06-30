@@ -58,6 +58,8 @@ sidebar: auto
 
 :::tip 提示
 此服务器需要使用正版账号才能正常游戏。
+
+如果你需要开设小号，请使用以#开头的ID，例如"#Molean"。以#开头的ID类似于普通账号，但不设正版验证，可直接进服注册。
 :::
 
 同时我们提供了一个方便使用的Java客户端：[梦幻之屿客户端](https://cdn.molean.com/Client.zip)，里面包含了一些基础使用的模组。
@@ -69,14 +71,9 @@ sidebar: auto
 ## 一起畅聊
 
 
-[点击链接加入QQ频道【梦幻之屿】](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=1W4NRpT&appChannel=share&businessType=9&from=181074&biz=ka&shareSource=5)
-
-::: warning 注意
-2022年7月中旬开始，我们将不再使用QQ群，请加入梦幻之屿官方频道。
-:::
-
-
 服务器交流群:  [483653595](https://qm.qq.com/cgi-bin/qm/qr?k=5lFa2ORulp-y9jlqY3YniQaMG1xc2f5S&jump_from=webapi)
+
+这是梦幻之屿服务器官方提供的（游戏内除外）唯一交流方式。
 
 如果无法搜索到QQ群，请扫描下面的二维码：
 
@@ -86,7 +83,9 @@ sidebar: auto
 </div>
 </center>
 
-
+::: warning 注意
+**群成员上限为2000人**，会定期清理潜水人员。 如果你只想要安心游戏，无需加入此群。梦幻之屿游戏内聊天和QQ群聊天互通。
+:::
 
 ## 支持我们
 
