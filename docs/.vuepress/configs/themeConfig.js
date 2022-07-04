@@ -34,7 +34,7 @@ module.exports = {
         {
           text: '玩家手册', items: [
             { text: '游戏规则', link: '/guide/rules.html' },
-            { text: '新手教学', link: 'https://various-monkey-519.notion.site/94ddc5dc458a449aa0033376d833fe83' },
+            { text: '新手教学', link: '/guide/tutorial.html' },
             { text: '魔改内容', link: '/guide/modification.html' },
             { text: '特殊机制', link: '/guide/mechanism.html' },
           ]
