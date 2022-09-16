@@ -1,4 +1,4 @@
-module.exports = {
+export default {
 
     // logo: '/assets/img/logo.svg',
 
@@ -42,7 +42,7 @@ module.exports = {
                     ]
                 },
 
-                { text: '活动', link: '/activities/' },
+                // { text: '活动', link: '/activities/' },
                 {
                     text: '相关链接',
                     items: [

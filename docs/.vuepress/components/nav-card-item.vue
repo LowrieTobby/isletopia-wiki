@@ -19,21 +19,23 @@ export default {};
 .item {
   text-align: center;
   min-width: 120px;
-  color: #2c3e50;
+  color: var(--c-text);
   border-style: solid;
-  border-color: #c3cad0;
+  border-color: var(--c-border);
   border-width: 2.5px;
   border-radius: 9px;
   padding: 50px 10px;
   margin: 0px 6px;
   transition: all 0.3s ease-in-out;
+  text-decoration:none
 }
 
 .item:hover {
   transition: all 0.1s ease-in-out;
-  background-color: #42b983;
+  background-color: var(--c-tip);
   border-color: #85e0b7;
   color: #fff;
+  text-decoration:none
 }
 
 .item-icon {

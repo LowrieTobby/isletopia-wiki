@@ -1,6 +1,5 @@
 ---
 title: 在线合成表
-sidebar: hide
 ---
 
 # 合成表

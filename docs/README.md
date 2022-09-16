@@ -6,7 +6,7 @@ footer: Copyright © 2021 Isletopia - Powered by Vuepress
 
 <!-- <center><img :src="$withBase('/assets/img/island_b.png')" alt="islet" style="zoom:50%;"/></center> -->
 ::: warning 注意
-由于Wiki更新不及时，如需获取最新咨询，请加入QQ频道。[点击链接加入QQ频道【梦幻之屿】](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=1W4NRpT&appChannel=share&businessType=9&from=181074&biz=ka&shareSource=5)
+本Wiki不再提供活动类资讯，为了使玩家能够更及时获取资讯，请加入我们的QQ频道。[点击链接加入QQ频道【梦幻之屿】](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=1W4NRpT&appChannel=share&businessType=9&from=181074&biz=ka&shareSource=5)
 :::
 
 ## 🧭 常用导航
@@ -57,15 +57,3 @@ footer: Copyright © 2021 Isletopia - Powered by Vuepress
 梦幻之屿官方唯一捐助平台：爱发电
 
 你的所有捐助都会用于服务器续费和升级：[https://afdian.net/@molean](https://afdian.net/@molean)
-
-[comment]: <> (## 📡 服务器状态)
-
-[comment]: <> (<html>)
-
-[comment]: <> (<center>)
-
-[comment]: <> (<iframe style="width:500px;height:115px;max-width:100%;border:none;display:block;" src="https://namemc.com/server/play.molean.com/embed" width="728" height="90"></iframe>)
-
-[comment]: <> (</center>)
-
-[comment]: <> (</html>)

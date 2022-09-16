@@ -1,0 +1,9 @@
+:root {
+    --c-warning-text-accent: var(--c-text-accent);
+}
+
+html.dark {
+    --c-warning-text: var(--c-warning);
+    --c-warning-text-accent: var(--c-text-accent);
+    --c-warning-bg: #343025;
+}
