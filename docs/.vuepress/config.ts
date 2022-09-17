@@ -59,7 +59,7 @@ export default {
         navbar: [
             { text: '首页', link: '/#' },
             { text: '服务器简介', link: '/introduction.html' },
-            { text: '合成表', link: '/recipes.html' },
+            // { text: '合成表', link: '/recipes.html' },
             { text: '常见问答', link: '/faq.html' },
             { text: '特色系统', link: '/feature.html' },
             { text: '社团', link: '/club.html' },
