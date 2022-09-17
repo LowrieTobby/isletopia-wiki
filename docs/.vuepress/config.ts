@@ -27,6 +27,8 @@ export default {
         //   title: 'Isletopia Wiki',
         //   description: 'Welcome to Isletopia Wiki Page'
         // }
+        lastUpdatedText: "更新于",
+        contributorsText: "提交者"
     },
 
 
