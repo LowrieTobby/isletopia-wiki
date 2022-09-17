@@ -20,7 +20,7 @@ Isletopia Wiki 基于 `vuepress 2.x` 博客框架进行开发
 
 
 
-## 计划与完成度wwww
+## 计划与完成度
 
 ### 板块完成度
 
