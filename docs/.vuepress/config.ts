@@ -59,17 +59,29 @@ export default defineUserConfig({
         navbar: [
             { text: '首页', link: '/#' },
             { text: '服务器简介', link: '/introduction.html' },
+            { text: '常见问答', link: 'faq.html' },
             // { text: '合成表', link: '/recipes.html' },
-            { text: '常见问答', link: '/faq.html' },
-            { text: '特色系统', link: '/feature.html' },
-            { text: '社团', link: '/club.html' },
             {
-                text: '玩家手册',
+                text: 'Wiki',
                 children: [
-                    { text: '游戏规则', link: '/guide/rules.html' },
-                    { text: '新手教学', link: '/guide/tutorial.html' },
-                    { text: '魔改内容', link: '/guide/modification.html' },
-                    { text: '特殊机制', link: '/guide/mechanism.html' },
+                    {
+                        text: '玩家手册',
+                        children: [
+                            { text: '游戏规则', link: '/guide/rules.html' },
+                            { text: '新手教学', link: '/guide/tutorial.html' },
+                            { text: '魔改内容', link: '/guide/modification.html' },
+                            { text: '特殊机制', link: '/guide/mechanism.html' },
+
+                        ]
+                    },
+                    {
+                        text: '其他',
+                        children: [
+                            { text: '特色系统', link: '/guide/feature.html' },
+                            { text: '社团', link: '/guide/club.html' },
+                        ]
+
+                    }
                 ]
             },
             {
@@ -81,8 +93,10 @@ export default defineUserConfig({
             },
         ],
 
+        // lastUpdated: true,
+        contributors: false,
         lastUpdatedText: "更新于",
-        contributorsText: "提交者",
+        // contributorsText: "发布者",
 
         // 主题自带插件配置
         themePlugins: { mediumZoom: false }
