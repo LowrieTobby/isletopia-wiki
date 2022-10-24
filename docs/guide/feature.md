@@ -107,7 +107,7 @@ sidebar: auto
 根据区当前负载状况，耗能等级越高的岛屿会受到越严格的开放限制。
 不满足开放条件的岛屿，将无法进入与加载。每个岛屿单独计算负载。
 
-<img alt="img_1.png" height="300" src="energy_level.png"/>
+<img alt="img_1.png" height="300" src="./energy_level.png"/>
 
 ::: details 什么是负载？负载是如何计算的？
 
