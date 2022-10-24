@@ -24,10 +24,6 @@ footer: Copyright © 2021 Isletopia - Powered by Vuepress
       <template v-slot:icon>🤔</template>
       <template v-slot:text>常见问题</template>
     </nav-card-item>
-    <nav-card-item href="/guide/club.html">
-      <template v-slot:icon>👨‍👩‍👦‍👦</template>
-      <template v-slot:text>社团机制</template>
-    </nav-card-item>
     <nav-card-item href="guide/modification.html">
       <template v-slot:icon>💫</template>
       <template v-slot:text>魔改内容</template>

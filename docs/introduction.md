@@ -51,21 +51,20 @@ sidebar: auto
 
 - 你可以使用任意最新版客户端加入梦幻之屿服务器，仅Java版。
 
-<!-- :::tip 提示
-此服务器需要使用正版账号才能正常游戏。
-如果你需要开设小号，请使用以#开头的ID，例如"#Molean"。以#开头的ID类似于普通账号，但不设正版验证，可直接进服注册。
-::: -->
-
 - 为了遵守EULA，梦幻之屿不提供包含Minecraft官方文件的客户端。如果你手边没有可用的客户端，推荐使用 [XPlus客户端](https://beta.mcbbs.net/resource/modpack/eerqnkj3/releases)
 
 ## 一起畅聊
-- 官方QQ频道：
+- 官方QQ频道
 [点击加入梦幻之屿官方QQ频道](https://pd.qq.com/s/4bmonb)
 [(备用链接)](https://qunpro.islet.world)
+
+
 - 官方Discord服务器：[点击加入梦幻之屿官方Discord服务器](https://discord.gg/9JdBWfEZTd)
 <iframe src="https://discord.com/widget?id=867724524862177340&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
-
+:::tip 提示
+梦幻之屿大部分玩家均为国内玩家，由于国情原因，Discord使用率极低。Discord频道暂时仅用于备用通知，如果想要获取最新资讯，请加入QQ频道。
+::: 
 ## 支持我们
 
 梦幻之屿目前仅接受无偿捐助， 欢迎一切对梦幻之屿服务器表示认可的捐助。梦幻之屿的发展与升级离不开你们的支持， 你们的微小支持将是我们前进的强大动力！
